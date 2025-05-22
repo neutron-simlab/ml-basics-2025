@@ -12,6 +12,7 @@ To be able to run this tutorial on your local machine, you will need to install 
 - matplotlib
 - torch
 - tqdm
+- scikit-learn
 - transformers
 - datasets
 - accelerate
